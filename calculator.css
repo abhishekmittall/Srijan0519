@@ -1,0 +1,80 @@
+.container{ 
+
+    text-align: center; 
+
+    margin-top:23px 
+
+} 
+
+table{ 
+
+    margin: auto; 
+
+} 
+
+input{ 
+
+    border-radius: 12px; 
+
+    border: 4px GRAY; 
+
+    font-size:35px; 
+
+    height: 60px; 
+
+    width: 400px; 
+
+} 
+
+button{ 
+
+    font-family: 'ITALIC'; 
+
+    font-size: 32px; 
+
+    background: gray; 
+
+    width: 80px; 
+
+    height: 50px; 
+
+    margin: 9px; 
+
+ 
+
+ 
+
+} 
+
+.calculator{ 
+
+    border: 9px solid GREY; 
+
+    background-color: BLACK; 
+
+    padding: 10px; 
+
+    display: inline-block; 
+
+    text-align: center; 
+
+ 
+
+} 
+
+h4{ 
+
+    font-size: 28px; 
+
+    font-family: Typewriter, Typewriter, Typewriter, Typewriter, Typewriter, Typewriter; 
+
+    text-decoration: underline; 
+
+
+    text-align: center; 
+
+    margin-top:20px; 
+
+    margin-left: 540px; 
+
+} 
