@@ -19,7 +19,7 @@ I am a coding enthusiast and I am getting my hands dirty in various tech fields 
 I am learning Javascript currently and improving my C++ skills.
 These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
 I would like to learn and teach others as much as I can.
-If you feel that I can help you in any way possible you can mail me at [srijan16k@gmail.com]:"@srijan". I will be very pleased to assist you with things.
+If you feel that I can help you in any way possible you can mail me at "@srijan":[srijan16k@gmail.com]. I will be very pleased to assist you with things.
 
 **Languages and Tools:**  
 
