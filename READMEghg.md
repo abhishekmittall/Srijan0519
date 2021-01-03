@@ -9,7 +9,7 @@
 <br />
 
 Hi, I'm Srijan!, you can call me Siri if that's too tricky.
-<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="300" height="320" />
   
 **MORE ABOUT ME**
 <br>
@@ -25,7 +25,11 @@ If you feel that I can help you in any way possible you can mail me at srijan16k
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
 📈 My GitHub Stats
