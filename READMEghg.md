@@ -16,9 +16,10 @@ Hi, I'm Srijan!, you can call me Siri if that's too tricky.
 Greetings of the day!!
 I am glad you're reading this.
 I am a coding enthusiast and I am getting my hands dirty in various tech fields like web development(frontend), UI/UX designing and C++.
-I am learning Javascript currently and improving my C++ skills. These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
-I believe in learning. It is a very powerful word and I would like to learn and teach others as much as I can.
-If you feel that I can help you in any way possible you can mail me at srijan16k@gmail.com. I will be very pleased to assist you with things.
+I am learning Javascript currently and improving my C++ skills.
+These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
+I would like to learn and teach others as much as I can.
+If you feel that I can help you in any way possible you can mail me at [srijan16k@gmail.com]:"@srijan". I will be very pleased to assist you with things.
 
 **Languages and Tools:**  
 
